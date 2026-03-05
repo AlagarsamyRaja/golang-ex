@@ -1,0 +1,22 @@
+Program : 1
+    Send (n) numbers into a channel using goroutine's function and receive them
+
+Program : 2
+    Find Odd and Even numbers
+        Test Data:
+            Input:
+                7 3 2 4 5
+            Output:
+                ODD : 7
+                ODD : 3
+                EVEN: 2
+                EVEN: 4
+                ODD : 5
+
+Program : 3
+    Write a program in Go to Read and Write Fibonacci series to a Channel
+        Test Data:
+            Input:
+                7
+            Output:
+                0 1 1 2 3 5 8

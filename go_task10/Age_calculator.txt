@@ -1,0 +1,8 @@
+    * Get two inputs:
+        your date of birth: AAA
+        Your mothers' date of birth: BBB
+
+        Output:
+            * What is your current age : 
+            * What is the age of your mother when you were born?
+            * How many days left for your birthday?

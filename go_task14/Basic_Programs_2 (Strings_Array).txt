@@ -1,0 +1,50 @@
+Program 1:
+    Write a Go program that accepts two integers from the user and calculate the sum of the two integers.
+        Test Data :
+            Input:
+                Input the first integer: 25
+                Input the second integer: 15
+            Expected Output:
+                Sum of the above two integers = 40
+
+Program 2:
+    Write a program in Go to convert a string to uppercase
+        Test Data :
+        Input:
+            Input a string in lowercase : the quick brown fox jumps over the lazy dog
+
+        Expected Output :
+            Here is the above string in UPPERCASE : THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+Program 3:
+    Write a Go program that read 5 numbers and sum of all odd values between them
+    Test Data :
+        Input:
+            Input the first number: 11
+            Input the second number: 17
+            Input the third number: 13
+            Input the fourth number: 12
+            Input the fifth number: 5
+        Expected Output:
+            Sum of all odd values: 46
+
+Program 4:
+    Write a Go program to sort a string in ascending order
+    Test Data :
+        Input:
+            Input the string : stet
+        Expected Output : 
+            After sorting the string appears like :  estt 
+
+Program 5:
+    Write a program in Go to split string by space into words
+        Test Data :
+        Input:
+            Input a string : this is a test string
+        Expected Output :
+            Strings or words after split by space are : 
+                this
+                is 
+                a 
+                test 
+                string

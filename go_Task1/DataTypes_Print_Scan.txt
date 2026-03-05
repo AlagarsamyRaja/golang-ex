@@ -1,0 +1,6 @@
+Write a Go program to print your name, date of birth and mobile number. Get it first and print
+Use Scanf, Scanln, Printf, Println, SPrintf,etc...
+
+Print all the datatypes (int,float,boolean,array,struct,...) with the respective % precision
+Example:
+    fmt.Printf("%d",5)

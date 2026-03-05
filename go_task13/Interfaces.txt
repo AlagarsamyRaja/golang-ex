@@ -1,0 +1,5 @@
+Create an interface Type with two methods ( Add, Subtract)
+
+Define the methods
+
+Using that interface Pass values and get the values using that method

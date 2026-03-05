@@ -1,0 +1,6 @@
+Write a Go program to find the prime numbers which are less than or equal to a given integer.
+Sample Output:
+    Input a number:
+    123
+    Number of prime numbers which are less than or equal to 123
+    30 

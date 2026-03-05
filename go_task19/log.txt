@@ -1,0 +1,8 @@
+2026/02/05 17:07:10 main.go:17: Application started
+2026/02/05 17:16:09 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/main.go:17: Application started
+2026/02/05 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/main.go:17: Application started
+2026/02/05 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/main.go:17: Application started
+Information2026/02/05 18:20:57 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/main.go:20: Application started
+Information2026/02/05 19:01:21 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/main.go:20: Application started
+Information:2026/02/05 19:01:31 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/main.go:20: Application started
+Information:2026/02/05 19:25:52 D:/mitrahsoft/Exercises/Golang/Internal Tasks/go_task19/logs/logs.go:21: hello

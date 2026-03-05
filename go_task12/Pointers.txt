@@ -1,0 +1,59 @@
+Program 1:
+    Write a program in Go to Calculate the length of the string using a pointer.
+        Test Data :
+            Input:
+                Input a string : qwertyuiop
+            Expected Output :
+                The length of the given string qwertyuiop is : 10   
+
+Program 2:
+    Write a program in Go to sort an array using Pointer
+        Test Data :
+            Input:
+                Input the number of elements to store in the array : 5
+                Input 5 number of elements in the array :
+                element - 1 : 25
+                element - 2 : 45
+                element - 3 : 89
+                element - 4 : 15
+                element - 5 : 82
+            Expected Output :
+                The elements in the array after sorting :
+                element - 1 : 15 
+                element - 2 : 25 
+                element - 3 : 45 
+                element - 4 : 82 
+                element - 5 : 89 
+
+Program 3:
+    Write a program in Go to add numbers using call by reference
+        Test Data :
+            Input:
+                Input the first number : 5
+                Input the second number : 6
+            Expected Output :
+                The sum of 5 and 6  is 11 
+
+Program 4:
+    Write a program in Go to show the usage of pointer to structure
+        Create a struct Employee with name, dateofbirth and ID.
+        Add value for it and print using pointer
+
+Program 5:
+    Write a program in Go to swap elements using call by reference
+        Test Data :
+            Input :
+                Input the value of 1st element : 5
+                Input the value of 2nd element : 6
+                Input the value of 3rd element : 7
+            Expected Output :
+
+                The value before swapping are :
+                element 1 = 5
+                element 2 = 6
+                element 3 = 7
+
+                The value after swapping are :
+                element 1 = 7 
+                element 2 = 5 
+                element 3 = 6

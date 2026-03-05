@@ -1,0 +1,9 @@
+    Initialize Slice with values
+    Declare Slice using new Keyword
+    Access, Change the slices
+    Remove Item from Slice
+    Copy a Slice
+    Loop Through a Slice
+    Reverse the order of a slice.
+
+

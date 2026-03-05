@@ -1,0 +1,65 @@
+
+Learn file handling functions and apply for the below programs:
+
+Program 1:
+    Write a program in Go to create and store information in a text file.
+    Test Data :
+        Input:
+            Input a sentence for the file : This is the content of the file test.txt.
+        Expected Output :
+            The file test.txt created successfully...!! 
+
+Program 2:
+    Write a program in Go to read an existing file.
+    Test Data :
+        Input:
+            Input the file name to be opened : test.txt
+        Expected Output :
+            The content of the file test.txt is  : This is the content of the file test.txt.
+
+Program 3:
+Write a program in Go to append multiple lines at the end of a text file
+    Assume that the content of the file test.txt is :
+        test line 1 
+        test line 2 
+        test line 3 
+        test line 4 
+    Test Data :
+        Input:
+            Input the file name to be opened : test.txt
+            Input the number of lines to be written : 3
+            The lines are :
+            test line 5
+            test line 6
+            test line 7
+        Expected Output :
+
+            The content of the file test.txt is :
+            test line 1 
+            test line 2 
+            test line 3 
+            test line 4 
+                        
+            test line 5 
+            test line 6 
+            test line 7
+
+Program 4:
+Write a program in Go to copy a file in another name
+    Assume that the content of the file test.txt is : test line 1  
+    Test Data :
+        Input:
+            Input the source file name : test.txt
+            Input the new file name : test1.txt
+        Expected Output :
+            The file test.txt  copied successfully in the file test1.txt.
+            If you read the new file you will see the content of the file : test line 1
+
+Program 5:
+Write a program in Go to merge two files and write it in a new file
+    Test Data :
+        Input the 1st file name : test.txt
+        Input the 2nd file name : test1.txt
+        Input the new file name where to merge the above two files : mergefiles.txt
+        Expected Output :
+            The two files merged into mergefiles.txt file successfully..!! 
